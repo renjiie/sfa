@@ -43,7 +43,8 @@
     "react-native-webview": "13.13.5",
     "rxdb": "^16.11.0",
     "rxjs": "^7.8.2",
-    "expo-image-manipulator": "~13.1.5"
+    "expo-image-manipulator": "~13.1.5",
+    "expo-dev-client": "~5.1.8"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
